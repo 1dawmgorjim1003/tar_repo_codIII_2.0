@@ -1,1 +1,1 @@
-Esto es una prueba del comando git remote
+Esto es una prueba del comando git remote. Ahora estoy modificando el doc2.txt desde la nube.
