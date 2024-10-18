@@ -3,3 +3,4 @@ Esto es una prueba del comando git remote. Ahora estoy modificando el doc2.txt d
 =======
 Esto es una prueba del comando git remote. Ahora estoy modificando el doc2.txt desde la nube.
 >>>>>>> 4a828088d621e1d6b3777b053d6b0de3939fa699
+Esto es una modificación desde la nueva rama third
